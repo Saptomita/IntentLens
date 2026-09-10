@@ -128,25 +128,7 @@ npm run dev
 
 The frontend runs at `http://localhost:5173`.
 
-## Deployment
 
-### Backend → Render
-
-1. Push this repo to GitHub.
-2. On Render, create a new **Web Service** from the repo, root directory `backend`.
-3. Build command: `pip install -r requirements.txt`
-4. Start command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
-5. Add environment variable `GEMINI_API_KEY` (and optionally `ALLOWED_ORIGINS`
-   set to your Netlify URL) in Render's dashboard — never in code.
-
-### Frontend → Netlify
-
-1. On Netlify, create a new site from the same GitHub repo, base directory `frontend`.
-2. Build command: `npm run build`
-3. Publish directory: `dist`
-4. Add environment variable `VITE_API_URL` set to your deployed Render backend URL
-   (e.g. `https://intentlens-backend.onrender.com`).
-5. Once deployed, add the Netlify URL to the backend's `ALLOWED_ORIGINS` on Render.
 
 ## Example Use Cases
 
