@@ -151,11 +151,11 @@ The frontend runs at `http://localhost:5173`.
   independently-looked-up channels.
 
   <img width="720" height="416" alt="image" src="https://github.com/user-attachments/assets/6af12df4-28f2-44a9-9be9-cd08b4ce2ae8" />
+  <img width="470" height="411" alt="Screenshot 2026-10-03 011158" src="https://github.com/user-attachments/assets/9a191acc-fef2-4aa7-b197-f7f2bccba61b" />
+  <img width="364" height="356" alt="Screenshot 2026-10-03 011205" src="https://github.com/user-attachments/assets/c7d2081b-85d4-47c0-bdc7-898158933660" />
+  <img width="526" height="240" alt="Screenshot 2026-10-03 011209" src="https://github.com/user-attachments/assets/f057498b-e40e-46d1-9908-dfa2191d5474" />
 
 
-## Future Improvements
 
-- Optional screenshot/image upload with OCR.
-- Browser extension for inline analysis of emails/messages.
-- Persisted history of past analyses (would require a database).
-- Community-reported scam pattern database to enrich context.
+
+
