@@ -150,6 +150,9 @@ The frontend runs at `http://localhost:5173`.
 - Not a substitute for verifying suspicious contacts through official,
   independently-looked-up channels.
 
+  <img width="720" height="416" alt="image" src="https://github.com/user-attachments/assets/6af12df4-28f2-44a9-9be9-cd08b4ce2ae8" />
+
+
 ## Future Improvements
 
 - Optional screenshot/image upload with OCR.
